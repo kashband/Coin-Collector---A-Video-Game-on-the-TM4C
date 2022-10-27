@@ -4,4 +4,4 @@ Coin Collector is a video game fully playable on the TM4C microcontroller! It's 
 
 [Here](https://youtu.be/RQVxKQrjG_E) is a youtube video showcasing the gameplay and general description!
 
-<b> WORK IN PROGRESS </b>
+<b> WORK IN PROGRESS: Code is still in the process of being uploaded :-) </b>
